@@ -1,2 +1,2 @@
 # dotfiles
-personal dotfiles for various tools ('cause it's about time)
+personal dotfiles for various tools
