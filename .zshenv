@@ -1,0 +1,18 @@
+# Custom Aliases
+alias runc="youki" # container runtime
+alias cloc="tokei"
+alias cp="xcp"
+alias diff="delta"
+alias du="dust"
+alias find="fd"
+alias ls="lsd"
+alias nvm="fnm"
+alias ps="procs"
+alias rm="rip"
+alias sed="sd"
+alias grep"rg"
+alias teddit="libreddit"
+alias choose="cut"
+alias aliases="bat ~/.zshenv"
+alias carbon="silicon"
+alias dp="cd ~/Documents/Projects"
