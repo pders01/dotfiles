@@ -1,0 +1,9 @@
+[language-server.perlnavigator]
+command = "perlnavigator"
+args = ["--stdio"]
+
+[[language]]
+name = "perl"
+file-types = ["pl", "pm"]
+language-servers = ["perlnavigator"]
+roots = [".git", "Makefile", "Build.PL", "cpanfile"]
