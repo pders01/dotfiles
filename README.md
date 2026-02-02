@@ -1,2 +1,2 @@
-# .local/config/.*
+# ~/.config/*
 Personal dotfiles for various tools.
