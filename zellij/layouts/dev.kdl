@@ -1,0 +1,15 @@
+layout {
+    tab "Dev" split_direction="Vertical" {
+        pane size="35%" {
+            command "zsh"
+        }
+        pane split_direction="Horizontal" {
+            pane size="75%" {
+                command "zsh"
+            }
+            pane {
+                command "zsh"
+            }
+        }
+    }
+}

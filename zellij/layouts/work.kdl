@@ -1,0 +1,30 @@
+layout {
+    tab "LMSCloud" split_direction="Vertical" {
+        pane size="35%" {
+            command "zsh"
+            cwd "${LMSC_SYNC_REPO}"
+        }
+        pane {
+            command "zsh"
+            cwd "${LMSC_SYNC_REPO}"
+        }
+    }
+    tab "Koha Community" split_direction="Vertical" {
+        pane size="35%" {
+            command "zsh"
+            cwd "${SYNC_REPO}"
+        }
+        pane {
+            command "zsh"
+            cwd "${SYNC_REPO}"
+        }
+    }
+    tab "Misc" split_direction="Vertical" {
+        pane size="35%" {
+            command "btop"
+        }
+        pane {
+            command "zsh"
+        }
+    }
+}
