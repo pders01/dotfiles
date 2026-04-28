@@ -1,3 +1,5 @@
+theme = light:TokyoNight Day,dark:TokyoNight Storm
+
 background-opacity = 0.90
 background-blur-radius= 20
 
