@@ -19,3 +19,8 @@ quick-terminal-size = 50%, 75%
 
 macos-non-native-fullscreen = true
 keybind = shift+enter=text:\n
+
+# 1/3 | 2/3 default for 2K display at 2560 / 6 ~= 426
+keybind = cmd+s>2=new_split:left
+keybind = chain=resize_split:left,426
+
