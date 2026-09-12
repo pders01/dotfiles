@@ -15,7 +15,7 @@ macos-option-as-alt = true
 
 keybind = cmd+ctrl+enter=toggle_quick_terminal
 quick-terminal-position = center
-quick-terminal-size = 50%, 50%
+quick-terminal-size = 50%, 75%
 
 macos-non-native-fullscreen = true
 keybind = shift+enter=text:\n
