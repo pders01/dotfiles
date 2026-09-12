@@ -1,4 +1,4 @@
-theme = light:TokyoNight Day,dark:TokyoNight Storm
+theme = light:StoneLight,dark:Stone
 
 background-opacity = 0.90
 background-blur-radius= 20
